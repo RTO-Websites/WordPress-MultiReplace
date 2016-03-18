@@ -1,0 +1,30 @@
+=== Plugin Name ===
+Contributors: crazypsycho
+Donate link: https://github.com/crazypsycho
+Tags: replace, url, string, post, post_meta, wp_options
+Requires at least: 3.0.1
+Tested up to: 4.5
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+
+With this plugin can you replace every string in wp_posts, post-meta and wp_options.
+
+
+You can help to develop on
+https://github.com/crazypsycho/WordPress-MultiReplace
+
+
+== Installation ==
+
+Just install and activate the plugin.
+In Tools/MultiReplace can you found the replace-tool.
+You can replace every string in wp_posts, post-meta and wp_options.
+
+
+== Changelog ==
+= 1.0 =
+* Release
+
