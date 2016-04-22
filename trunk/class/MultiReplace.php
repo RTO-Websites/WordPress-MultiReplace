@@ -141,7 +141,7 @@ class MultiReplace {
                 }
             }
         } else {
-            $needle = str_replace( $search, $replace, $needle, $replace );
+            $needle = str_replace( $search, $replace, $needle );
         }
 
         return $needle;
