@@ -8,7 +8,7 @@
 * Plugin Name:       MultiReplace
 * Plugin URI:        https://github.com/crazypsycho/WordPress-MultiReplace
 * Description:       Replace strings in database
-* Version:           1.0.0
+* Version:           1.0.1
 * Author:            Sascha Hennemann
 * Author URI:        https://github.com/crazypsycho
 * License:           GPL-2.0+
