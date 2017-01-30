@@ -40,7 +40,7 @@ class MultiReplace {
         echo '</form>';
 
 
-        if ( !empty( $search ) ) {
+        if ( !empty( $search ) && !empty( $replaceIn )  ) {
             if ( in_array( 'Postmeta', $replaceIn ) ) {
                 $this->replacePostMeta( $search, $replace );
                 echo 'Post meta replaced<br />';
@@ -55,6 +55,8 @@ class MultiReplace {
                 $this->replacePosts( $search, $replace );
                 echo 'Posts replaced<br />';
             }
+        } else if ( !empty( $search ) ) {
+            echo 'Nothing selected.<br />';
         }
 
         echo '</div>';
