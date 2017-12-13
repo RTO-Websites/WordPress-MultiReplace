@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: crazypsycho
-Donate link: https://github.com/crazypsycho
+Contributors: rtowebsites
+Donate link: https://www.rto.de
 Tags: replace, url, string, post, post_meta, wp_options
 Requires at least: 3.0.1
 Tested up to: 4.5
@@ -14,7 +14,7 @@ With this plugin can you replace every string in wp_posts, post-meta and wp_opti
 
 
 You can help to develop on
-https://github.com/crazypsycho/WordPress-MultiReplace
+https://github.com/RTO-Websites/WordPress-MultiReplace
 
 
 == Installation ==
