@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: rtowebsites
 Donate link: https://www.rto.de
-Tags: replace, url, string, post, post_meta, wp_options
+Tags: replace, url, string, post, post_meta, wp_options, rto, rto.de
 Requires at least: 3.0.1
 Tested up to: 4.5
 Stable tag: 4.3
