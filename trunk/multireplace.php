@@ -8,7 +8,7 @@
 * Plugin Name:       MultiReplace
 * Plugin URI:        https://github.com/RTO-Websites/WordPress-MultiReplace
 * Description:       Replace strings in database
-* Version:           1.0.1
+* Version:           1.0.2
 * Author:            RTO GmbH
 * Author URI:        https://www.rto.de
 * License:           GPL-2.0+
